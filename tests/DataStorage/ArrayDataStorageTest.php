@@ -1,6 +1,6 @@
 <?php
 
-namespace DataStorage;
+namespace Scheb\InMemoryDataStorage\Test;
 
 use Scheb\InMemoryDataStorage\DataStorage\ArrayDataStorage;
 use Scheb\InMemoryDataStorage\Test\TestCase;
